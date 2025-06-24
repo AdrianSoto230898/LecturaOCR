@@ -1,0 +1,13 @@
+
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+android/key.properties
+ios/Runner/GeneratedPluginRegistrant.*
+*.iml
+*.lock
+.idea/
+*.DS_Store
